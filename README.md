@@ -1,0 +1,2 @@
+# kayob
+Setting up Git
